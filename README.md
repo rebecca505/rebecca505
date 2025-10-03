@@ -34,7 +34,10 @@ I'm Rebecca Frey, a Computer Science and Mathematics student at [Barnard College
 ![English](https://img.shields.io/badge/-English-000000?style=flat&logo=bookstack&logoColor=white)
 ![Mandarin Chinese](https://img.shields.io/badge/-Mandarin%20Chinese-DE2910?style=flat&logo=china&logoColor=white)
 
+## Fun Facts!
 
+When I’m not studying, I’m either cafe hopping or watching Broadway shows.
+Check out my [Broadway Rush Tracker](https://bway-rush-scraper.onrender.com/)!
 
 <!--
 **rebecca505/rebecca505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
