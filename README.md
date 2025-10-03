@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Rebecca Frey, a Computer Science and Mathematics student at [Barnard College](https://www.barnard.edu/), [Columbia University](https://www.columbia.edu/), based in New York City. I’m passionate about building projects that blend data, AI, and user-centric design.
+
 <!--
 **rebecca505/rebecca505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
