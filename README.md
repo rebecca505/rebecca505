@@ -2,6 +2,12 @@
 
 I'm Rebecca Frey, a Computer Science and Mathematics student at [Barnard College](https://www.barnard.edu/), [Columbia University](https://www.columbia.edu/), based in New York City. I’m passionate about building projects that blend data, AI, and user-centric design.
 
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail&logoColor=white)](mailto:rlf2153@barnard.edu) 
+[![Website](https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=white)](https://rlfrey.onrender.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beccafrey/)
+
+[![Follow on GitHub](https://img.shields.io/github/followers/rebecca505?label=Follow&style=social)](https://github.com/rebecca505)
+
 ## GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca505&layout=compact)
@@ -27,6 +33,8 @@ I'm Rebecca Frey, a Computer Science and Mathematics student at [Barnard College
 
 ![English](https://img.shields.io/badge/-English-000000?style=flat&logo=bookstack&logoColor=white)
 ![Mandarin Chinese](https://img.shields.io/badge/-Mandarin%20Chinese-DE2910?style=flat&logo=china&logoColor=white)
+
+
 
 <!--
 **rebecca505/rebecca505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
